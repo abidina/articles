@@ -1,0 +1,59 @@
+h1, footer {
+  text-align: center;
+}
+
+.artOne {
+  background-color: #2B32BF;
+  font-family: "Century Gothic", sans-serif;
+  font-size: 1em;
+  color: #fff;
+  line-height: 90%;
+  padding: 2%;
+  border: dotted;
+  border-radius: 10px;
+}
+
+.artTwo {
+  background-color: #FEC7C7;
+  font-family: "Calibri", Arial, sans-serif;
+  font-size: 2.5em;
+  color: #809F02;
+  line-height: 120%;
+  padding: 5%;
+  border: solid;
+  border-radius: 20px;
+}
+
+.artThree {
+  background-color: #940096;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 1.5em;
+  color: #B3B3B3;
+  line-height: 100%;
+  padding: 10%;
+  border: dashed;
+  border-radius: 25px;
+}
+
+.artFour {
+  background-color: #3FFDFF;
+  font-family: Verdana, sans-serif;
+  font-size: .9em;
+  color: #1A2C1E;
+  line-height: 200%;
+  padding: 40px;
+  border: double;
+  border-radius: 100px;
+}
+
+.artFive {
+  background-color: #323B3B;
+  font-family: "Palatino", Georgia, serif;
+  font-size: 1.3em;
+  color: #C4DF65;
+  line-height: 250%;
+  padding: 17%;
+  border: dotted;
+  border-radius: 500px;
+}
+
