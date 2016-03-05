@@ -2,6 +2,10 @@ h1, footer {
   text-align: center;
 }
 
+article {
+  margin: 0 10%;
+}
+
 .artOne {
   background-color: #2B32BF;
   font-family: "Century Gothic", sans-serif;
